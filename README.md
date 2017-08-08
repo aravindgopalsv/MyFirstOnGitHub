@@ -1,2 +1,3 @@
-# MyFirstOnGitHub
-My first repository 
+# IamSrikar
+I am Srikar , I started using github 
+
